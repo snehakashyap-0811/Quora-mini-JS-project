@@ -1,0 +1,20 @@
+h2{
+    color: brown;
+
+}
+.post{
+    background-color: rgb(179, 179, 179);
+    
+}
+.user{
+    color: rgb(180, 64, 64);
+}
+.content{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.post{
+    background-color: rgb(179, 179, 179);
+}
